@@ -71,4 +71,8 @@ Yetkili personel (Fakülte sekreteri)
 •	Proje geliştirme ortamı: C#
 •	Projenin kullanılacağı bilgisayar: Her bilgisayarda kullanılabilir bir sistem.
 
+KULLANICI ARAYÜZLERİMİZ AŞAĞIDA ÖRNEKLENMİŞTİR;
+
+
+
 
