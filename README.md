@@ -76,3 +76,9 @@ KULLANICI ARAYÜZLERİMİZ AŞAĞIDA ÖRNEKLENMİŞTİR;
 
 
 
+![Menü1](https://github.com/tugceeylcn/c-sharp-belge-yonetim-sistemi-1/assets/92729671/1e951e15-d0f8-4b51-98a4-4f54aea1c197)
+
+
+
+
+
