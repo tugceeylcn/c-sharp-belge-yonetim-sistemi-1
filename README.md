@@ -1,2 +1,74 @@
 # c-sharp-belge-yonetim-sistemi-1
 BELGE ARŞİV YÖNETİM SİSTEMİ
+
+
+
+Hedef kitlenin ihtiyaçları doğrultusunda yapılan içerik analizinde uygulama kullanıcıların kolayca adapte olabileceği; sade ve anlaşılır biçimde tasarlanıp uygulamanın görsel kısmı kullanışlı ve açık olacak şekilde dizayn edilecektir.
+
+Uygulamamızda;
+•	Evrak isimlerine göre arama
+•	Departman isimlerine göre arama
+•	Türe göre arama
+•	Yeni evrak kaydı
+•	Kullanıcı kayıt silme/ekleme
+•	Evrak emanet alıp/verme
+•	Personel kayıt silme/ekleme
+
+ bulunacaktır.
+ 
+ 
+ KULLANICI ANALİZİ:
+Sisteme erişim sağlayabilecek olan kullanıcılarımız arşiv görevlilerimizdir.
+
+
+•	Kullanıcıların evraklar ile ilgili bilgileri doldurarak arşive kayıt oluşturabilmeleri.
+•	Kayıtlı evrakın emanet verilebilmesi.
+•	Emanet verilmiş evrakların listelenmesi.
+•	Arşivde bulunan evrakların yıl, dönem ve ay bazında listelenmesi.
+•	Arşivde bulunan evraklarda arama işlevi yapılması.
+•	Arşivde bulunan evraklar ile ilgili istatistikler.
+
+
+
+
+Evrak işlemlerinin bilgisayarlı arşiv ortamı içerisine alınması için uygun bir çözüm sistemi modeli düşünüldü. Bu çalışma ile konuya ait işlemler tespit edilecek ve ana hatlarıyla bir hiyerarşi içerisinde yerleştirilerek işlem menüleri oluşturulacaktır. İşlem menüleri çalıştırıldığında veri alış verişini sağlayacak ekran formları tasarlanacaktır. Daha sonra ekran formları aracılığıyla okunacak veya yazılacak verilerin saklanacağı veri tabanı dosyaları tasarlanacaktır. Son aşamada kullanıcı, ekran formu, veri ve dosyalar arasındaki iş akışını ve koordinasyonu sağlayacak, bilgisayar ile kullanıcı arasında iletişim kuracaktır.
+
+SİSTEM MİMARİSİ 
+•	Ana Form
+•	Evrak Listesi Formu
+•	Kullanıcı Listesi Formu
+•	Emanet Lisesi Formu
+•	İstatistikler Formu
+•	Personel Formu
+•	Ayarlar Formu
+
+
+
+
+İŞLEVSEL GEREKSİNİMLER
+   Bu uygulama;
+•	Mevcut evrak bilgilerini,
+•	Yeni evrak bilgilerini,
+•	Kullanıcı bilgilerini,
+•	Emanet verme bilgilerini,
+•	Teslim alma bilgilerini
+İçermelidir.
+
+
+
+Aktör: 
+Yetkili personel (Fakülte sekreteri)                                
+      Tanım:
+•	Kullanıcı ekle-sil işlemlerini yapar.
+•	Evrak ekle-sil işlemlerini yapar.
+•	Teslim alma işlemlerini yönetir.
+•	Kullanıcı Listesi’ne erişim sağlar.
+•	Evrak Listesi’ne erişim sağlar.  (ay, dönem ve yıl bazında)
+•	Arşivde bulunan evraklarda arama işlevine erişim sağlar.
+•	Arşivde bulunan evraklar ile ilgili istatistikler bulundurur.
+
+   İŞLEVSEL OLMAYAN GEREKSİNİMLER
+•	Proje geliştirme ortamı: C#
+•	Projenin kullanılacağı bilgisayar: Her bilgisayarda kullanılabilir bir sistem.
+
+
